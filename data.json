@@ -7,12 +7,6 @@
       "desc": "كل المحتوى"
     },
     {
-      "id": "ps1",
-      "name": "PlayStation 1",
-      "icon": "🎮",
-      "desc": "ألعاب ومحاكيات PS1"
-    },
-    {
       "id": "ps2",
       "name": "PlayStation 2",
       "icon": "🎮",
@@ -53,7 +47,7 @@
     {
       "id": 102,
       "name": "DuckStation",
-      "cat": "ps1",
+      "cat": "all",
       "type": "محاكي",
       "platform": "PS1",
       "version": "Latest",
