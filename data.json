@@ -5,18 +5,6 @@
       "name": "الكل",
       "icon": "✨",
       "desc": "كل المحتوى"
-    },
-    {
-      "id": "pc",
-      "name": "PC",
-      "icon": "🖥️",
-      "desc": "ألعاب الكمبيوتر"
-    },
-    {
-      "id": "cat_1790520472162",
-      "name": "Android",
-      "icon": "📲",
-      "desc": "كل شيء يخص الاندرويد"
     }
   ],
   "items": [
@@ -59,7 +47,7 @@
     {
       "id": 104,
       "name": "PC Gaming",
-      "cat": "pc",
+      "cat": "all",
       "type": "ألعاب",
       "platform": "Windows",
       "version": "—",
