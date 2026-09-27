@@ -13,12 +13,6 @@
       "desc": "ألعاب الكمبيوتر"
     },
     {
-      "id": "emu",
-      "name": "المحاكيات",
-      "icon": "⚙️",
-      "desc": "محاكيات الأنظمة"
-    },
-    {
       "id": "cat_1790520472162",
       "name": "Android",
       "icon": "📲",
@@ -29,7 +23,7 @@
     {
       "id": 101,
       "name": "PCSX2",
-      "cat": "emu",
+      "cat": "all",
       "type": "محاكي",
       "platform": "PS2",
       "version": "Latest",
