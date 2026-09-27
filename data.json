@@ -7,12 +7,6 @@
       "desc": "كل المحتوى"
     },
     {
-      "id": "pc",
-      "name": "PC",
-      "icon": "🖥️",
-      "desc": "ألعاب الكمبيوتر"
-    },
-    {
       "id": "emu",
       "name": "المحاكيات",
       "icon": "⚙️",
@@ -65,7 +59,7 @@
     {
       "id": 104,
       "name": "PC Gaming",
-      "cat": "pc",
+      "cat": "all",
       "type": "ألعاب",
       "platform": "Windows",
       "version": "—",
