@@ -5,13 +5,37 @@
       "name": "الكل",
       "icon": "✨",
       "desc": "كل المحتوى"
+    },
+    {
+      "id": "psp",
+      "name": "PSP",
+      "icon": "🕹️",
+      "desc": "ألعاب ومحاكيات PSP"
+    },
+    {
+      "id": "pc",
+      "name": "PC",
+      "icon": "🖥️",
+      "desc": "ألعاب الكمبيوتر"
+    },
+    {
+      "id": "emu",
+      "name": "المحاكيات",
+      "icon": "⚙️",
+      "desc": "محاكيات الأنظمة"
+    },
+    {
+      "id": "cat_1790520472162",
+      "name": "Android",
+      "icon": "📲",
+      "desc": "كل شيء يخص الاندرويد"
     }
   ],
   "items": [
     {
       "id": 101,
       "name": "PCSX2",
-      "cat": "all",
+      "cat": "emu",
       "type": "محاكي",
       "platform": "PS2",
       "version": "Latest",
@@ -35,7 +59,7 @@
     {
       "id": 103,
       "name": "PPSSPP",
-      "cat": "all",
+      "cat": "psp",
       "type": "محاكي",
       "platform": "PSP",
       "version": "Latest",
@@ -47,7 +71,7 @@
     {
       "id": 104,
       "name": "PC Gaming",
-      "cat": "all",
+      "cat": "pc",
       "type": "ألعاب",
       "platform": "Windows",
       "version": "—",
