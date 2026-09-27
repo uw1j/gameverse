@@ -7,12 +7,6 @@
       "desc": "كل المحتوى"
     },
     {
-      "id": "ps2",
-      "name": "PlayStation 2",
-      "icon": "🎮",
-      "desc": "ألعاب ومحاكيات PS2"
-    },
-    {
       "id": "psp",
       "name": "PSP",
       "icon": "🕹️",
