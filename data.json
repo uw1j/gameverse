@@ -1,0 +1,116 @@
+{
+  "categories": [
+    {
+      "id": "all",
+      "name": "الكل",
+      "icon": "✨",
+      "desc": "كل المحتوى"
+    },
+    {
+      "id": "ps1",
+      "name": "PlayStation 1",
+      "icon": "🎮",
+      "desc": "ألعاب ومحاكيات PS1"
+    },
+    {
+      "id": "ps2",
+      "name": "PlayStation 2",
+      "icon": "🎮",
+      "desc": "ألعاب ومحاكيات PS2"
+    },
+    {
+      "id": "psp",
+      "name": "PSP",
+      "icon": "🕹️",
+      "desc": "ألعاب ومحاكيات PSP"
+    },
+    {
+      "id": "pc",
+      "name": "PC",
+      "icon": "🖥️",
+      "desc": "ألعاب الكمبيوتر"
+    },
+    {
+      "id": "emu",
+      "name": "المحاكيات",
+      "icon": "⚙️",
+      "desc": "محاكيات الأنظمة"
+    }
+  ],
+  "items": [
+    {
+      "id": 101,
+      "name": "PCSX2",
+      "cat": "emu",
+      "type": "محاكي",
+      "platform": "PS2",
+      "version": "Latest",
+      "img": "",
+      "telegram": "o_j07",
+      "desc": "محاكي PlayStation 2 لتشغيل الألعاب على الأجهزة المدعومة.",
+      "rating": 5
+    },
+    {
+      "id": 102,
+      "name": "DuckStation",
+      "cat": "ps1",
+      "type": "محاكي",
+      "platform": "PS1",
+      "version": "Latest",
+      "img": "",
+      "telegram": "o_j07",
+      "desc": "محاكي حديث لتشغيل ألعاب PlayStation 1.",
+      "rating": 5
+    },
+    {
+      "id": 103,
+      "name": "PPSSPP",
+      "cat": "psp",
+      "type": "محاكي",
+      "platform": "PSP",
+      "version": "Latest",
+      "img": "",
+      "telegram": "o_j07",
+      "desc": "محاكي PSP متوفر لعدة أنظمة وأجهزة.",
+      "rating": 5
+    },
+    {
+      "id": 104,
+      "name": "PC Gaming",
+      "cat": "pc",
+      "type": "ألعاب",
+      "platform": "Windows",
+      "version": "—",
+      "img": "",
+      "telegram": "o_j07",
+      "desc": "قسم ألعاب الكمبيوتر والملفات المتعلقة بها.",
+      "rating": 4
+    }
+  ],
+  "products": [
+    {
+      "id": 201,
+      "name": "تصميم واجهة موقع",
+      "price": 25000,
+      "currency": "IQD",
+      "img": "",
+      "telegram": "o_j07",
+      "desc": "تصميم واجهة احترافية قابلة للتخصيص."
+    },
+    {
+      "id": 202,
+      "name": "خدمة رقمية",
+      "price": 10000,
+      "currency": "IQD",
+      "img": "",
+      "telegram": "o_j07",
+      "desc": "خدمة رقمية قابلة للتعديل من لوحة الإدارة."
+    }
+  ],
+  "settings": {
+    "siteName": "GameVerse X",
+    "ownerName": "مالك الموقع",
+    "telegram": "o_j07",
+    "email": ""
+  }
+}
