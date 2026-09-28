@@ -15,6 +15,18 @@
   ],
   "items": [
     {
+      "id": 1790608849105,
+      "name": "GTA Vice City",
+      "cat": "cat_1790562502567",
+      "type": "لعبة",
+      "platform": "PS2",
+      "version": "v4",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1790608846135_2mh6rg.jpg",
+      "telegram": "O_J08/236",
+      "desc": "GTA Vice City نسخه معدله تحتوي على مود جرافيك عالي ومحسنه و موسيقى جديده على طراز القديم1980"
+    },
+    {
       "id": 1790608686592,
       "name": "GTA SanAndreas",
       "cat": "cat_1790562502567",
