@@ -15,18 +15,6 @@
   ],
   "items": [
     {
-      "id": 1790563344516,
-      "name": "god of war 1",
-      "cat": "cat_1790562502567",
-      "type": "لعبة",
-      "platform": "ps2",
-      "version": "v1",
-      "rating": 4.9,
-      "img": "",
-      "telegram": "O_J08/211",
-      "desc": "نسخه اصليه غير معدله تشتغل ع جميع محاكيات ps2"
-    },
-    {
       "id": 1790562649460,
       "name": "god of war 2 كريسماس",
       "cat": "cat_1790562502567",
@@ -40,14 +28,14 @@
     },
     {
       "id": 101,
-      "name": "PCSX2",
-      "cat": "all",
+      "name": "محاكي ps2",
+      "cat": "cat_1790562502567",
       "type": "محاكي",
       "platform": "PS2",
-      "version": "Latest",
+      "version": "v1",
       "img": "",
-      "telegram": "o_j07",
-      "desc": "محاكي PlayStation 2 لتشغيل الألعاب على الأجهزة المدعومة.",
+      "telegram": "O_J08/229",
+      "desc": "محاكي PlayStation 2 لتشغيل الألعاب على الأجهزة الأندرويد.",
       "rating": 5
     },
     {
