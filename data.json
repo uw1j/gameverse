@@ -15,6 +15,18 @@
   ],
   "items": [
     {
+      "id": 1790620542182,
+      "name": "GTA Sa",
+      "cat": "cat_1790562502567",
+      "type": "لعبة",
+      "platform": "PS2",
+      "version": "V end",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1790620539643_jnfbyp.jpg",
+      "telegram": "O_J08/246",
+      "desc": "GTA SanAndreas تم تصحيح مشاكل وكليجات وهذه نسخه نهائيه بدون مودات"
+    },
+    {
       "id": 1790620401414,
       "name": "GTA V PS2",
       "cat": "cat_1790562502567",
