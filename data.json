@@ -15,6 +15,18 @@
   ],
   "items": [
     {
+      "id": 1790620672133,
+      "name": "GTA Liberty City Stories",
+      "cat": "cat_1790562502567",
+      "type": "لعبة",
+      "platform": "PS2",
+      "version": "v1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1790620669069_slpw2f.jpg",
+      "telegram": "O_J08/248",
+      "desc": "GTA Liberty City Stories نسخه اصلية"
+    },
+    {
       "id": 1790620542182,
       "name": "GTA Sa",
       "cat": "cat_1790562502567",
