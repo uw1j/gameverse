@@ -15,6 +15,18 @@
   ],
   "items": [
     {
+      "id": 1790608686592,
+      "name": "GTA SanAndreas",
+      "cat": "cat_1790562502567",
+      "type": "محاكي",
+      "platform": "PS2",
+      "version": "v1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1790608683539_u64e5t.jpg",
+      "telegram": "O_J08/234",
+      "desc": "GTA SanAndreas نسخه الاصليه غير معدله"
+    },
+    {
       "id": 1790608611042,
       "name": "GTA IRAN",
       "cat": "cat_1790562502567",
