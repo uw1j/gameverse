@@ -87,12 +87,12 @@
     },
     {
       "id": 202,
-      "name": "خدمة رقمية",
-      "price": 10000,
+      "name": "بوت تيليغرام داتا بيس العراق",
+      "price": 5000,
       "currency": "IQD",
-      "img": "",
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1790563864142_ckv3ma.jpg",
       "telegram": "o_j07",
-      "desc": "خدمة رقمية قابلة للتعديل من لوحة الإدارة."
+      "desc": "بوت قاعدة بيانات العراق جميع محافظات بأسمك وانت المالك"
     }
   ],
   "settings": {
