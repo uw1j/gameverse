@@ -15,6 +15,18 @@
   ],
   "items": [
     {
+      "id": 1790620271751,
+      "name": "GTA Snow Mod",
+      "cat": "cat_1790562502567",
+      "type": "لعبة",
+      "platform": "PS2",
+      "version": "v3",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1790620269007_gmcymp.jpg",
+      "telegram": "O_J08/241",
+      "desc": "GTA Snow  نسخه معدله طور ثلجي بالكامل"
+    },
+    {
       "id": 1790609097440,
       "name": "GTA Spider-Man No Way Home",
       "cat": "cat_1790562502567",
