@@ -21,6 +21,18 @@
   ],
   "items": [
     {
+      "id": 1790708499348,
+      "name": "Call Of Duty: World War II",
+      "cat": "cat_1790708293537",
+      "type": "لعبة",
+      "platform": "ps4",
+      "version": "v1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1790708496309_aujjx1.jpg",
+      "telegram": "O_J08/183",
+      "desc": "Call Of Duty: World War II\nنسخه اصليه صيغه pkg"
+    },
+    {
       "id": 1790708372779,
       "name": "god of war 2018",
       "cat": "cat_1790708293537",
