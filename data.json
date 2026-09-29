@@ -21,6 +21,18 @@
   ],
   "items": [
     {
+      "id": 1790708372779,
+      "name": "god of war 2018",
+      "cat": "cat_1790708293537",
+      "type": "لعبة",
+      "platform": "ps4",
+      "version": "v1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1790708370086_elm6by.jpg",
+      "telegram": "O_J08/196",
+      "desc": "god of war 2018 نسخه اصليه صيغه pkg"
+    },
+    {
       "id": 1790620772943,
       "name": "GTA Project Kaizo v2.2",
       "cat": "cat_1790562502567",
