@@ -27,6 +27,25 @@
   ],
   "items": [
     {
+      "id": 1790962327811,
+      "name": "GTA SanAndreas Netflix",
+      "cat": "cat_1790708677908",
+      "type": "لعبة",
+      "platform": "Android",
+      "version": "v1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1790962324253_27n22m.jpg",
+      "telegram": "https://dl.apkvision.org/gta-san-andreas-definitive/GTA-SA-Definitive-60-FPS-v1.87.0-mod-apkvision.apks",
+      "desc": "لا يوجد وصف.",
+      "links": [
+        {
+          "icon": "🆓",
+          "label": "Telegram",
+          "url": "https://t.me/O_J08/267"
+        }
+      ]
+    },
+    {
       "id": 1790957680903,
       "name": "Resident Evil 4 Verdugo Mod",
       "cat": "cat_1790562502567",
