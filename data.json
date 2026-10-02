@@ -27,6 +27,25 @@
   ],
   "items": [
     {
+      "id": 1790965728247,
+      "name": "GTA SanAndreas زير سالم",
+      "cat": "cat_1790562502567",
+      "type": "لعبة",
+      "platform": "PS2",
+      "version": "v1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1790965722919_yuqjiw.jpg",
+      "telegram": "https://www.mediafire.com/file/k9p666viq522rox/GTA_Alzeir_Salem.rar/file",
+      "desc": "نسخه معدله مود زير سالم كلمة مرور في تلغرام",
+      "links": [
+        {
+          "icon": "🆓",
+          "label": "Telegram",
+          "url": "https://t.me/O_J08/269"
+        }
+      ]
+    },
+    {
       "id": 1790963277203,
       "name": "black",
       "cat": "cat_1790562502567",
