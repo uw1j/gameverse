@@ -27,6 +27,18 @@
   ],
   "items": [
     {
+      "id": 1790945112044,
+      "name": "crash Nitro Kart Arabic",
+      "cat": "cat_1790562502567",
+      "type": "لعبة",
+      "platform": "PS2",
+      "version": "v1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1790945108953_3ru4mv.jpg",
+      "telegram": "https://www.mediafire.com/file/pqpl7mf9ko94hmw/CRASH+NK+AR.iso/file",
+      "desc": "لا يوجد وصف."
+    },
+    {
       "id": 1790710231900,
       "name": "Call of Duty:Black Ops mobile",
       "cat": "cat_1790708677908",
