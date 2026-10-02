@@ -27,6 +27,25 @@
   ],
   "items": [
     {
+      "id": 1790963277203,
+      "name": "black",
+      "cat": "cat_1790562502567",
+      "type": "لعبة",
+      "platform": "PS2",
+      "version": "v1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1790963274844_h4tgin.jpg",
+      "telegram": "https://www.mediafire.com/file/8v24e47i4zk70xf/Black+by+ArabTro.iso/file",
+      "desc": "اللعبة مترجمة مشاهد باللغة العربية",
+      "links": [
+        {
+          "icon": "🆓",
+          "label": "Telegram",
+          "url": "https://t.me/O_J08/268"
+        }
+      ]
+    },
+    {
       "id": 1790962327811,
       "name": "GTA SanAndreas Netflix",
       "cat": "cat_1790708677908",
