@@ -27,6 +27,25 @@
   ],
   "items": [
     {
+      "id": 1790957680903,
+      "name": "Resident Evil 4 Verdugo Mod",
+      "cat": "cat_1790562502567",
+      "type": "لعبة",
+      "platform": "PS2",
+      "version": "Latest",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1790957678244_x7z6kr.jpg",
+      "telegram": "https://www.mediafire.com/file/rtay8nzf6gy438r/MODVerdugo.rar/file",
+      "desc": "لا يوجد وصف.",
+      "links": [
+        {
+          "icon": "🆓",
+          "label": "Telegram",
+          "url": "https://t.me/O_J08/266"
+        }
+      ]
+    },
+    {
       "id": 1790945112044,
       "name": "Crash Nitro Kart Arabic",
       "cat": "cat_1790562502567",
