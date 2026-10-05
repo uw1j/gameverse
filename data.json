@@ -27,6 +27,25 @@
   ],
   "items": [
     {
+      "id": 1791243778921,
+      "name": "سوبر نينتندو",
+      "cat": "cat_1790562502567",
+      "type": "لعبة",
+      "platform": "PS2",
+      "version": "V1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1791243775849_tu4uaw.jpg",
+      "telegram": "https://t.me/O_J08/271",
+      "desc": "العاب سوبر نينتندو",
+      "links": [
+        {
+          "icon": "🆓",
+          "label": "Telegram",
+          "url": "https://t.me/O_J08"
+        }
+      ]
+    },
+    {
       "id": 1790965728247,
       "name": "GTA SanAndreas زير سالم",
       "cat": "cat_1790562502567",
