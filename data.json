@@ -27,6 +27,25 @@
   ],
   "items": [
     {
+      "id": 1791243942364,
+      "name": "Ben 10 Protector of the Earth",
+      "cat": "cat_1790562502567",
+      "type": "لعبة",
+      "platform": "PS2",
+      "version": "V1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1791243939095_q6s05u.jpg",
+      "telegram": "https://t.me/O_J08/273",
+      "desc": "Ben 10 Protector of the Earth مهكره",
+      "links": [
+        {
+          "icon": "🆓",
+          "label": "Telegram",
+          "url": "https://t.me/O_J08"
+        }
+      ]
+    },
+    {
       "id": 1791243778921,
       "name": "سوبر نينتندو",
       "cat": "cat_1790562502567",
