@@ -27,6 +27,25 @@
   ],
   "items": [
     {
+      "id": 1791414978360,
+      "name": "محاكي winlator لمعالجات mali",
+      "cat": "cat_1790562502567",
+      "type": "محاكي",
+      "platform": "winlator",
+      "version": "v1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1791414975533_ksp1fu.jpg",
+      "telegram": "https://www.mediafire.com/file/vei1qzktte58oio/Winlator_Mali_V1_NOX_.apk/file",
+      "desc": "محاكي winlator مخصص لمعالجات mali يستخدم للعب العاب pc على اجهزه Android",
+      "links": [
+        {
+          "icon": "🆓",
+          "label": "Telegram",
+          "url": "https://t.me/O_J08/274"
+        }
+      ]
+    },
+    {
       "id": 1791243942364,
       "name": "Ben 10 Protector of the Earth",
       "cat": "cat_1790562502567",
