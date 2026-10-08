@@ -39,6 +39,25 @@
   ],
   "items": [
     {
+      "id": 1791502935307,
+      "name": "Twisted metal 5 in 1",
+      "cat": "cat_1791502831296",
+      "type": "محاكي",
+      "platform": "PS1",
+      "version": "v1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1791502932148_9lcaxf.jpg",
+      "telegram": "https://www.mediafire.com/file/nglvyon0ute9p0h/Twisted_Metal+5+IN+1.7z/file",
+      "desc": "تحتوي على 5 اجزاء كامله",
+      "links": [
+        {
+          "icon": "🆓",
+          "label": "Telegram",
+          "url": "https://t.me/O_J08/276"
+        }
+      ]
+    },
+    {
       "id": 1791446408917,
       "name": "winlator mali",
       "cat": "cat_1791446157690",
