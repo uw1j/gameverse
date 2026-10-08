@@ -449,8 +449,10 @@
       "price": 5000,
       "currency": "IQD",
       "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1790563864142_ckv3ma.jpg",
-      "telegram": "o_j07",
-      "desc": "بوت قاعدة بيانات العراق جميع محافظات بأسمك وانت المالك"
+      "telegram": "https://t.me/o_j07",
+      "desc": "بوت قاعدة بيانات العراق جميع محافظات بأسمك وانت المالك",
+      "rating": 5,
+      "links": []
     }
   ],
   "settings": {
