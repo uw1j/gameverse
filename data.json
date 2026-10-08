@@ -33,6 +33,25 @@
   ],
   "items": [
     {
+      "id": 1791446258994,
+      "name": "GTA V 16gb",
+      "cat": "cat_1791446157690",
+      "type": "لعبة",
+      "platform": "winlator",
+      "version": "v1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1791446255679_yt9d2x.jpg",
+      "telegram": "https://buzzheavier.com/m3kk0m5s50no",
+      "desc": "نسخه GTA V بحجم 16 GB تعمل على محاكي winlator-gamehub",
+      "links": [
+        {
+          "icon": "🆓",
+          "label": "Telegram",
+          "url": "https://t.me/O_J08/275"
+        }
+      ]
+    },
+    {
       "id": 1791414978360,
       "name": "محاكي winlator لمعالجات mali",
       "cat": "cat_1790562502567",
