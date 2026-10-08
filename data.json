@@ -33,6 +33,25 @@
   ],
   "items": [
     {
+      "id": 1791446408917,
+      "name": "winlator mali",
+      "cat": "cat_1791446157690",
+      "type": "محاكي",
+      "platform": "Android",
+      "version": "v1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1791446405396_i9d6z1.jpg",
+      "telegram": "https://www.mediafire.com/file/vei1qzktte58oio/Winlator_Mali_V1_NOX_.apk/file",
+      "desc": "محاكي winlator  لمعالجات mali يستخدم لتشغيل العاب pc  على Android",
+      "links": [
+        {
+          "icon": "🆓",
+          "label": "Telegram",
+          "url": "https://t.me/O_J08/274"
+        }
+      ]
+    },
+    {
       "id": 1791446258994,
       "name": "GTA V 16gb",
       "cat": "cat_1791446157690",
