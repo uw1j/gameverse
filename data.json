@@ -39,6 +39,25 @@
   ],
   "items": [
     {
+      "id": 1791750500096,
+      "name": "BannerHub",
+      "cat": "cat_1791446157690",
+      "type": "محاكي",
+      "platform": "BannerHub",
+      "version": "V1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1791750497418_mbqdsp.jpg",
+      "telegram": "https://www.mediafire.com/file/nkd6pqh2nj802vu/BannerHub-v3.NOX.apk/file",
+      "desc": "لمعالجات adreno",
+      "links": [
+        {
+          "icon": "🆓",
+          "label": "Telegram",
+          "url": "https://t.me/O_J08/280"
+        }
+      ]
+    },
+    {
       "id": 1791713153528,
       "name": "The Simbason Collection 4 in 1",
       "cat": "cat_1790562502567",
