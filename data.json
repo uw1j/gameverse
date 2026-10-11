@@ -39,6 +39,25 @@
   ],
   "items": [
     {
+      "id": 1791713153528,
+      "name": "The Simbason Collection 4 in 1",
+      "cat": "cat_1790562502567",
+      "type": "لعبة",
+      "platform": "PS2",
+      "version": "v1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1791713150635_akx3m3.jpg",
+      "telegram": "https://www.mediafire.com/file/3f8nw57rp08ucxz/THE_SIMPSONS_COLLECTION.rar/file",
+      "desc": "باسورد في تلغرام",
+      "links": [
+        {
+          "icon": "🆓",
+          "label": "Telegram",
+          "url": "https://t.me/O_J08/279"
+        }
+      ]
+    },
+    {
       "id": 1791637294801,
       "name": "KillZone Hack نسخة مهكرة",
       "cat": "cat_1790562502567",
