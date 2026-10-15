@@ -39,6 +39,25 @@
   ],
   "items": [
     {
+      "id": 1792082678601,
+      "name": "BATMAN ARKHAM ORIGINS",
+      "cat": "cat_1791446157690",
+      "type": "لعبة",
+      "platform": "winlator",
+      "version": "v1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1792082674108_xook7o.jpg",
+      "telegram": "https://www.mediafire.com/file/tkd94t6fuatq1y1",
+      "desc": "تشتغل على محاكيات gamehub&winlator$BannerHub ......",
+      "links": [
+        {
+          "icon": "🆓",
+          "label": "Telegram",
+          "url": "https://t.me/O_J08/285"
+        }
+      ]
+    },
+    {
       "id": 1792082561267,
       "name": "The Amazing Spider-Man 2",
       "cat": "cat_1791446157690",
