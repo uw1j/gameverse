@@ -39,6 +39,25 @@
   ],
   "items": [
     {
+      "id": 1792701284653,
+      "name": "black Mobile mod",
+      "cat": "cat_1790708677908",
+      "type": "لعبة",
+      "platform": "Android",
+      "version": "V1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1792701281598_ixyo1n.jpg",
+      "telegram": "https://www.mediafire.com/file/bfaw7j43mehm85r/BThemocs.zip/file",
+      "desc": "نسخه تدعم جميع الاجهزه وبدون لاق ومهكره",
+      "links": [
+        {
+          "icon": "🆓",
+          "label": "Telegram",
+          "url": "https://t.me/O_J08/303"
+        }
+      ]
+    },
+    {
       "id": 1792700921638,
       "name": "black mod",
       "cat": "cat_1790562502567",
