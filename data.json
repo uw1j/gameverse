@@ -39,6 +39,25 @@
   ],
   "items": [
     {
+      "id": 1792777320275,
+      "name": "call of duty mobile",
+      "cat": "cat_1790708677908",
+      "type": "لعبة",
+      "platform": "Android",
+      "version": "V1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1792777317233_3fw0f4.jpg",
+      "telegram": "https://www.mediafire.com/file/i4l4bhzxiju91ez/call_of_%25F0%259F%2594%25A5.zip/file",
+      "desc": "لا يوجد وصف.",
+      "links": [
+        {
+          "icon": "🆓",
+          "label": "Telegram",
+          "url": "https://t.me/O_J08/305"
+        }
+      ]
+    },
+    {
       "id": 1792777185313,
       "name": "Counter-Strike Mobile",
       "cat": "cat_1790708677908",
