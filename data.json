@@ -39,6 +39,25 @@
   ],
   "items": [
     {
+      "id": 1792854687496,
+      "name": "Crash Mind Over ‏Mutant Arabic",
+      "cat": "cat_1790562502567",
+      "type": "لعبة",
+      "platform": "PS2",
+      "version": "V1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1792854684931_5i9jcz.jpg",
+      "telegram": "https://www.mediafire.com/file/q4chswbakpufxvi/Crash_Mind_Over_Mutant_AR.iso/file?action=check",
+      "desc": "لا يوجد وصف.",
+      "links": [
+        {
+          "icon": "🆓",
+          "label": "Telegram",
+          "url": "https://t.me/O_J08/306"
+        }
+      ]
+    },
+    {
       "id": 1792777320275,
       "name": "call of duty mobile",
       "cat": "cat_1790708677908",
