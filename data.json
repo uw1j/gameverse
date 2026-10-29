@@ -39,6 +39,25 @@
   ],
   "items": [
     {
+      "id": 1793293367017,
+      "name": "Red Dead Revolver Arabic",
+      "cat": "cat_1790562502567",
+      "type": "لعبة",
+      "platform": "PS2",
+      "version": "v1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1793293364524_bqzehc.jpg",
+      "telegram": "https://www.mediafire.com/file_premium/irkv9ga19dax7yp/Red_Dead_Revolver_-_Arabic_Text_Review_v14c.rar/file",
+      "desc": "لا يوجد وصف.",
+      "links": [
+        {
+          "icon": "🆓",
+          "label": "Telegram",
+          "url": "https://t.me/O_J08/309"
+        }
+      ]
+    },
+    {
       "id": 1793293246223,
       "name": "Ghost Rider Arabic  ‏",
       "cat": "cat_1790562502567",
