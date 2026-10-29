@@ -39,6 +39,25 @@
   ],
   "items": [
     {
+      "id": 1793293246223,
+      "name": "Ghost Rider Arabic  ‏",
+      "cat": "cat_1790562502567",
+      "type": "لعبة",
+      "platform": "PS2",
+      "version": "V1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1793293243286_ylg769.jpg",
+      "telegram": "https://www.mediafire.com/file/rztw8epcu5vb277/Ghost+Rider+Europe+-+Arabic+02.zip/file",
+      "desc": "لا يوجد وصف.",
+      "links": [
+        {
+          "icon": "🆓",
+          "label": "Telegram",
+          "url": "https://t.me/O_J08/308"
+        }
+      ]
+    },
+    {
       "id": 1792854687496,
       "name": "Crash Mind Over ‏Mutant Arabic",
       "cat": "cat_1790562502567",
