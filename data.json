@@ -39,6 +39,25 @@
   ],
   "items": [
     {
+      "id": 1793293706126,
+      "name": "Berserk Arabic",
+      "cat": "cat_1790562502567",
+      "type": "لعبة",
+      "platform": "PS2",
+      "version": "v1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1793293703252_v8iu5b.jpg",
+      "telegram": "https://drive.google.com/file/d/1QlnUpNC76EUKlji6WlDZbkj50k95_6-J/view?usp=drive_link",
+      "desc": "لا يوجد وصف.",
+      "links": [
+        {
+          "icon": "🆓",
+          "label": "Telegram",
+          "url": "https://t.me/O_J08/311"
+        }
+      ]
+    },
+    {
       "id": 1793293452771,
       "name": "No one Lives Forever",
       "cat": "cat_1790562502567",
