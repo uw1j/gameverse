@@ -39,6 +39,25 @@
   ],
   "items": [
     {
+      "id": 1793293452771,
+      "name": "No one Lives Forever",
+      "cat": "cat_1790562502567",
+      "type": "لعبة",
+      "platform": "PS2",
+      "version": "v1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1793293450134_63qv26.jpg",
+      "telegram": "https://www.mediafire.com/file_premium/2mjq11nfccpeepa/No_One_Lives_Forever_%2528USA%2529_-_Arabic_.rar/file",
+      "desc": "لا يوجد وصف.",
+      "links": [
+        {
+          "icon": "🆓",
+          "label": "Telegram",
+          "url": "https://t.me/O_J08/310"
+        }
+      ]
+    },
+    {
       "id": 1793293367017,
       "name": "Red Dead Revolver Arabic",
       "cat": "cat_1790562502567",
