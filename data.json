@@ -39,6 +39,25 @@
   ],
   "items": [
     {
+      "id": 1793346557216,
+      "name": "سباق الليل 3 - Arabic  KSA",
+      "cat": "cat_1790562502567",
+      "type": "لعبة",
+      "platform": "PS2",
+      "version": "v1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1793346553633_xlawfw.jpg",
+      "telegram": "https://www.mediafire.com/file/0x18z6uhgyoneak/mc3-with+6+cars+&character.iso/file",
+      "desc": "لا يوجد وصف.",
+      "links": [
+        {
+          "icon": "🆓",
+          "label": "Telegram",
+          "url": "https://t.me/O_J08/314"
+        }
+      ]
+    },
+    {
       "id": 1793293706126,
       "name": "Berserk Arabic",
       "cat": "cat_1790562502567",
