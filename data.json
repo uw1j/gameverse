@@ -39,6 +39,25 @@
   ],
   "items": [
     {
+      "id": 1793556831506,
+      "name": "Fatal Frame 1 Arabic",
+      "cat": "cat_1790562502567",
+      "type": "لعبة",
+      "platform": "PS2",
+      "version": "v1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1793556829141_fxc2u1.jpg",
+      "telegram": "https://www.mediafire.com/file/cxxy41dgt926j1z/Fatal+Frame+1+in+Arabic+by+Arkon.iso/file?action=check",
+      "desc": "لا يوجد وصف.",
+      "links": [
+        {
+          "icon": "🆓",
+          "label": "Telegram",
+          "url": "https://t.me/O_J08/315"
+        }
+      ]
+    },
+    {
       "id": 1793346557216,
       "name": "سباق الليل 3 - Arabic  KSA",
       "cat": "cat_1790562502567",
