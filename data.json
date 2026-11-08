@@ -39,6 +39,25 @@
   ],
   "items": [
     {
+      "id": 1794144966476,
+      "name": "Winning Eleven 2012",
+      "cat": "cat_1790562502567",
+      "type": "لعبة",
+      "platform": "PS2",
+      "version": "V1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1794144964095_2i6oov.jpg",
+      "telegram": "https://www.mediafire.com/file/2tpduzqvpec2ahd/WE12LE+Saudi.iso/file",
+      "desc": "لا يوجد وصف.",
+      "links": [
+        {
+          "icon": "🆓",
+          "label": "Telegram",
+          "url": "https://t.me/O_J08/316"
+        }
+      ]
+    },
+    {
       "id": 1793556831506,
       "name": "Fatal Frame 1 Arabic",
       "cat": "cat_1790562502567",
