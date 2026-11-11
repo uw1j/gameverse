@@ -39,6 +39,25 @@
   ],
   "items": [
     {
+      "id": 1794378148389,
+      "name": "RE4 Chris Redfield Mod",
+      "cat": "cat_1790562502567",
+      "type": "لعبة",
+      "platform": "PS2",
+      "version": "v1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1794378146039_jbwuck.jpg",
+      "telegram": "https://www.mediafire.com/file/eva2gasgtzxdvpd/RE4+Chris+Redfield+Mod.iso/file",
+      "desc": "ريزدنت ايفل 4\nشخصية كريس ريدفيلد\nاموال غير محدودة\nصحة لا نهائية\nجميع الاسلحة متاحة بي المتجر\nنسخة مهكرة\nصعوبة المحترف مفتوحة\nذخيرة لا نهائية",
+      "links": [
+        {
+          "icon": "🆓",
+          "label": "Telegram",
+          "url": "https://t.me/O_J08/318"
+        }
+      ]
+    },
+    {
       "id": 1794377977751,
       "name": "GTA san Resident Evil",
       "cat": "cat_1790562502567",
