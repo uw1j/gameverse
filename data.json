@@ -39,6 +39,25 @@
   ],
   "items": [
     {
+      "id": 1794377977751,
+      "name": "GTA san Resident Evil",
+      "cat": "cat_1790562502567",
+      "type": "لعبة",
+      "platform": "PS2",
+      "version": "v1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1794377975293_k6vuk4.jpg",
+      "telegram": "https://www.mediafire.com/file/wqbpacg9u86ch5m/SLUS_209.46.GTA+Resident+Evil.iso/file",
+      "desc": "لا يوجد وصف.",
+      "links": [
+        {
+          "icon": "🆓",
+          "label": "Telegram",
+          "url": "https://t.me/O_J08/317"
+        }
+      ]
+    },
+    {
       "id": 1794144966476,
       "name": "Winning Eleven 2012",
       "cat": "cat_1790562502567",
