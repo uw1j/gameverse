@@ -39,6 +39,25 @@
   ],
   "items": [
     {
+      "id": 1794471577612,
+      "name": "Ben 10:Vilgax Attack",
+      "cat": "cat_1790562502567",
+      "type": "لعبة",
+      "platform": "PS2",
+      "version": "v1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1794471574865_n8gie1.jpg",
+      "telegram": "https://www.mediafire.com/file/2nsx6tuvaxo34uh/Ben+10+Vilgax+Attacks+(arabic).7z/file",
+      "desc": "لا يوجد وصف.",
+      "links": [
+        {
+          "icon": "🆓",
+          "label": "Telegram",
+          "url": "https://t.me/O_J08/319"
+        }
+      ]
+    },
+    {
       "id": 1794378148389,
       "name": "RE4 Chris Redfield Mod",
       "cat": "cat_1790562502567",
