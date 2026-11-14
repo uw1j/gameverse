@@ -39,6 +39,25 @@
   ],
   "items": [
     {
+      "id": 1794639723974,
+      "name": "THE PUNISHER",
+      "cat": "cat_1790708677908",
+      "type": "لعبة",
+      "platform": "Android",
+      "version": "Latest",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1794639721473_ii7s9r.jpg",
+      "telegram": "https://modsfire.com/nery8UTn2nvRXl7",
+      "desc": "لا يوجد وصف.",
+      "links": [
+        {
+          "icon": "🆓",
+          "label": "Telegram",
+          "url": "https://t.me/O_J08/320"
+        }
+      ]
+    },
+    {
       "id": 1794471577612,
       "name": "Ben 10:Vilgax Attack",
       "cat": "cat_1790562502567",
